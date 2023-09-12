@@ -1,6 +1,1 @@
-<svg width="286" height="151" viewBox="0 0 286 151" fill="none" xmlns="http://www.w3.org/2000/svg">
-<line x1="0.5" y1="150.5" x2="285.5" y2="150.5" stroke="#E5E7EB" stroke-linecap="round" stroke-dasharray="8 8"/>
-<line x1="0.5" y1="100.5" x2="285.5" y2="100.5" stroke="#E5E7EB" stroke-linecap="round" stroke-dasharray="8 8"/>
-<line x1="0.5" y1="50.5" x2="285.5" y2="50.5" stroke="#E5E7EB" stroke-linecap="round" stroke-dasharray="8 8"/>
-<line x1="0.5" y1="0.5" x2="285.5" y2="0.500025" stroke="#E5E7EB" stroke-linecap="round" stroke-dasharray="8 8"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="286" height="151" fill="none" viewBox="0 0 286 151"><line x1=".5" x2="285.5" y1="150.5" y2="150.5" stroke="#E5E7EB" stroke-dasharray="8 8" stroke-linecap="round"/><line x1=".5" x2="285.5" y1="100.5" y2="100.5" stroke="#E5E7EB" stroke-dasharray="8 8" stroke-linecap="round"/><line x1=".5" x2="285.5" y1="50.5" y2="50.5" stroke="#E5E7EB" stroke-dasharray="8 8" stroke-linecap="round"/><line x1=".5" x2="285.5" y1=".5" y2=".5" stroke="#E5E7EB" stroke-dasharray="8 8" stroke-linecap="round"/></svg>
